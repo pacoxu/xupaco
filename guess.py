@@ -4,6 +4,7 @@
 
 def guess1(number):
   running = True;
+  print "guest __name__:",__name__
   while running==True:
     guess = int(raw_input('Enter an integer : '))
     if guess == number:
