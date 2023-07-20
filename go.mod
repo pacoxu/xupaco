@@ -38,7 +38,7 @@ require (
 	github.com/golang/mock v1.6.0
 	github.com/golang/protobuf v1.5.3
 	github.com/google/cadvisor v0.47.1
-	github.com/google/cel-go v0.12.6
+	github.com/google/cel-go v0.17.1
 	github.com/google/gnostic v0.5.7-v3refs
 	github.com/google/go-cmp v0.5.9
 	github.com/google/gofuzz v1.2.0
@@ -87,7 +87,7 @@ require (
 	google.golang.org/api v0.60.0
 	google.golang.org/genproto v0.0.0-20220502173005-c8bf987b8c21
 	google.golang.org/grpc v1.51.0
-	google.golang.org/protobuf v1.28.1
+	google.golang.org/protobuf v1.30.0
 	gopkg.in/gcfg.v1 v1.2.0
 	gopkg.in/square/go-jose.v2 v2.6.0
 	gopkg.in/yaml.v2 v2.4.0
